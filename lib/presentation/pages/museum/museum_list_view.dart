@@ -21,6 +21,7 @@ class MuseumListView extends HookConsumerWidget {
       }
 
       init();
+      return null;
     }, const []);
 
     if (isLoading.value) {

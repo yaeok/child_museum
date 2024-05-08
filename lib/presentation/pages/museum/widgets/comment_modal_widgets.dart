@@ -28,6 +28,7 @@ class CommentModalBottomSheet extends HookConsumerWidget {
       }
 
       initAsync();
+      return null;
     }, const []);
 
     if (isLoading.value) {
