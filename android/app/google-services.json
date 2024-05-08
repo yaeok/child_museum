@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573729498383",
+    "project_id": "child-museum",
+    "storage_bucket": "child-museum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573729498383:android:734ded46448d125ee9ca7a",
+        "android_client_info": {
+          "package_name": "com.example.child_museum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdk0ToloNUyhiSpCDDtSBn_1higPp4Aiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
